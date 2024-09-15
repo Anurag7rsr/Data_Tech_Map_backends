@@ -1,4 +1,4 @@
-package in.ashokit.entity;
+package in.anurag.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

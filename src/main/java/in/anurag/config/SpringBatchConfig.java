@@ -1,4 +1,4 @@
-package in.ashokit.config;
+package in.anurag.config;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
@@ -17,8 +17,8 @@ import org.springframework.core.io.FileSystemResource;
 import org.springframework.core.task.SimpleAsyncTaskExecutor;
 import org.springframework.core.task.TaskExecutor;
 
-import in.ashokit.entity.Customer;
-import in.ashokit.repo.CustomerRepository;
+import in.anurag.entity.Customer;
+import in.anurag.repo.CustomerRepository;
 import lombok.AllArgsConstructor;
 
 @Configuration

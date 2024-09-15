@@ -1,8 +1,8 @@
-package in.ashokit.config;
+package in.anurag.config;
 
 import org.springframework.batch.item.ItemProcessor;
 
-import in.ashokit.entity.Customer;
+import in.anurag.entity.Customer;
 
 public class CustomerProcessor implements ItemProcessor<Customer, Customer> {
 
